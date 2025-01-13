@@ -16,7 +16,7 @@ In 1842 all Shaker communities received orders from church leadership in New Leb
 
 The chosen location Harvard was called the Holy Hill of Zion and was within easy walking distance of both the Church and South families. 
 
-From Shaker journals, some [details of the construction process](Holy Hill Construction Journals) are known. The Church Family planted the road to Holy Hill with sugar maples and the South Family made a cart road. They cleared the hill, leveled a half-acre plot, enclosed the plot with a fence, and provided outdoor seating. The fence surrounded a hexagonal area in the center, called the fountain. They also erected a marble slab, called a [“Lord’s Stone,”](Lord’s Stone) with inscriptions on the site. 
+From Shaker journals, some [details of the construction process](Holy Hill Construction Journals) are known. The Church Family planted the road to Holy Hill with sugar maples and the South Family made a cart road. They cleared the hill, leveled a half-acre plot, enclosed the plot with a fence, and provided outdoor seating. The fence surrounded a hexagonal area in the center, called the fountain. They also erected a marble slab, called a [“Lord’s Stone,”](The Lord’s Stone) with inscriptions on the site. 
 
 This site was used for outdoor worship for about 10 years. Meetings on Holy Hill were held on the Sabbath and during the week, but were closed to the public. They included dancing, symbolic bathing in the fountain, and feasting on spiritual food.
 
