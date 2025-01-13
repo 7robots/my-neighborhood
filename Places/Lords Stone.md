@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Lord’s Stone
+title: The Lords Stone
 parent: Holy Hill
 grand_parent: Places
 nav_order: 3
