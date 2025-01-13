@@ -8,4 +8,5 @@ layout: home
 * [Places](Places)
 * [Geology](Geology)
 * [Flora and Fauna](Flora and Fauna)
-* 
+
+compiled by jefferson burson
