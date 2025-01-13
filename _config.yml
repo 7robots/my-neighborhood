@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: selenography.7robots.org
+description: A Natural History of the Shaker Village Historic District in Harvard, MA
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://7robots.github.io/moonbase
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+logo: "/assets/Moon.jpeg"
+color_scheme: dark
+nav_external_links_new_tab: true
+
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
