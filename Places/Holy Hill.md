@@ -8,7 +8,7 @@ nav_order: 2
 
 A hiking trail off S. Shaker Rd in Harvard. It was originally the site of outdoor worship services by the Shakers in Harvard.
 
-[Holy Hill Trail Map](https://www.harvardconservationtrust.org/maps/holy_hill.pdf)
+![https://www.harvardconservationtrust.org/maps/holy_hill.pdf](assets/holy_hill_trailmap.png)
 
 ## History and Background:
 
